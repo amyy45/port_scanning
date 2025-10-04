@@ -58,8 +58,6 @@ To document the process, the following screenshots have been included in the rep
 
 ## Foundational Concepts Q&A
 
-To solidify my understanding of the core concepts, I've included this section answering key questions related to port scanning.
-
 ### 1. What is an open port?
 
 An open port is a network endpoint on a host that is configured to accept incoming data packets from the network. It signifies that an application or service is actively "listening" for connections on that specific port number.
